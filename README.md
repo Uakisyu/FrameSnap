@@ -10,3 +10,5 @@ Follow the prompts to enter the information required by the script. The video in
 
 Step 3 (Run / End):  
 After you have entered all the information, press anykey, and ffmpeg should start and work.
+
+中文使用教程(秋秋の博客): https://blog.ivoura.de/index.php/archives/51/
